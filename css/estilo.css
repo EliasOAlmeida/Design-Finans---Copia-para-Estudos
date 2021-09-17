@@ -1,0 +1,25 @@
+
+
+.caixa{ /*ESTILIZA OS CONTEUDOS = O BG BRANCO - VERTICAL*/
+	padding: 60px 0px;
+
+	border-bottom: 1px solid #e5e5e5;
+}
+
+.footer-colun-1 a{
+   margin: 15px;
+}
+
+
+@media (min-width: 576px) and (max-width: 797.98px) {  /*MUDA O MENU PRA 16px A DIREITA*/
+
+     .lado{
+     	margin-left: 16px;
+     }
+
+ }
+
+
+
+
+
